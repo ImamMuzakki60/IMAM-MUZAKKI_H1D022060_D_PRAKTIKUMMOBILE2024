@@ -12,7 +12,7 @@ class ArtFill {
   void setArtikel(){
     print('DLM FT Unsoed — Telah berlangsung salah satu program kerja dari DLM FT Unsoed, yaitu $kegiatan pada $hariTanggal di $tempat. $kegiatan merupakan kegiatan $definisi. Kegiatan ini bertujuan untuk $tujuan.');
   }
- }
+}
 
 void main() {
   ArtFill artikel = ArtFill();
